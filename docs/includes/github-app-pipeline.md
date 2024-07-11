@@ -1,0 +1,1 @@
+In order to connect a pipeline to your application, the Github Application should be installed in your repository. This application will listen for push events (one or more commits) to your GitHub repository.

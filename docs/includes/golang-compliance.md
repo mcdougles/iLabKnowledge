@@ -1,0 +1,1 @@
+- [golang-compliance](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/community/pipelines/golang-compliance/v1)

@@ -1,0 +1,22 @@
+.dev-grid-container {
+    display: grid;
+    grid-template-columns: 100px 150px 250px 2500px 250px;
+    padding: 3px;
+}
+
+.innersource-grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    padding: 3px;
+}
+
+.grid-item {
+    padding: 20px 10px 20px 10px;
+    font-size: 17px;
+    text-align: left;
+}
+
+.item-header {
+    width: 200px;
+}
+  

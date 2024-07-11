@@ -1,0 +1,1 @@
+- [node-js-v18-library](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/official/pipelines/nodejs-v18-npm-library) - artifact built using node 18 and published to a private registry (Artifactory)

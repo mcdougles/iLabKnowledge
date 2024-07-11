@@ -1,0 +1,1 @@
+- [golang-library](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/community/pipelines/golang-library/v1)

@@ -1,0 +1,1 @@
+Sonarqube Integration is a part of CIO CI/CD pipeline and you have read-only access by default when you run the pipeline. The pipeline will always run sonarqube scans and upload the scan results to SonarQube and the DX Portal.

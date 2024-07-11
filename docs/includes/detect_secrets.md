@@ -1,0 +1,1 @@
+Set up the Detect Secrets tool by following the steps in the [IBM Detect Secrets page](https://w3.ibm.com/w3publisher/detect-secrets). Make sure that you configure the pre-commit hook. Be aware that scan failures can cause your pipeline to fail.

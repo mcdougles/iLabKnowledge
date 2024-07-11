@@ -1,0 +1,1 @@
+- [golang-container-image](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/community/pipelines/golang-container-image/v1)

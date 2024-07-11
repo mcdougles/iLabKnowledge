@@ -1,0 +1,9 @@
+/* Selects the border of for admonition faq | question | help */
+.md-typeset :is(.admonition,details):is(.question,.help,.faq) {
+  border-color: #759460;
+}
+
+/* Selects the :before icon and the :after icon for admonition faq | question | help */
+.md-typeset :is(.question,.help,.faq)>:is(.admonition-title,summary):before, :is(.question,.help,.faq)>:is(.admonition-title,summary):after  {
+  background-color: #759460;
+}

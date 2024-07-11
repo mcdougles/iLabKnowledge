@@ -1,0 +1,3 @@
+- [nodejs-v18-npm-container-image](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/official/pipelines/nodejs-container-image/v2/nodejs-v18) - microservice built on node 18
+- [nodejs-v20-npm-container-image](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/official/pipelines/nodejs-container-image/v2/nodejs-v20) - microservice built on node 20
+- [nodejs-v18-pnpm-container-image](https://github.ibm.com/cio-ci-cd/pipeline-catalog/tree/main/catalog/community/pipelines/nodejs-container-image/v1) - microservice built on node 18

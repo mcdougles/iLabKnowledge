@@ -1,0 +1,1 @@
+Deployment verification pods are run with a default memory request of 256 MB. To change this value, you can set the `deploy-verification-memory-request` variable under config to the new memory request. Possible values include: `q256mb`, `q512mb`, `q1gb`.

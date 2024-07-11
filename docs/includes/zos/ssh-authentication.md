@@ -1,0 +1,1 @@
+If you have not done so already, complete the steps to configure SSH in [Understanding SSH Connectivity for CIO CI/CD](../../zos/concepts/ssh.md#steps-to-configure-ssh) then proceed to the next step.
